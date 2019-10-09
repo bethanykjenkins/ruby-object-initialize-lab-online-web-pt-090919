@@ -1,1 +1,2 @@
-class radio_button_
+class Dog 
+end
